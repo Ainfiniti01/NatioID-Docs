@@ -203,23 +203,23 @@ While this version focuses on presentation and UI, contributions are welcome for
 *   Mobile-Web synchronization
 
 ## 📸 Visual Example
-**Web App**: [Web App](https://natio-id.vercel.app/admin/login)
-**Admin Dash 2**: [Admin Dash 2](screenshots/Admin-dash2.jpg)
-![Admin Dashboard](screenshots/Admin-Dashboard.jpg)
-![Admin Login](screenshots/Admin-Login.jpg)
-![Admin User Management](screenshots/Admin-user-management.jpg)
-![Campaign](screenshots/campaign.jpg)
-![Dashboard](screenshots/dashboard.jpg)
-![Election Management](screenshots/Election-management.jpg)
-![ID Page](screenshots/ID--page.jpg)
-![ID Preview](screenshots/ID-preview.jpg)
-![Light Dashboard](screenshots/light-dashboard.jpg)
-![Live Result](screenshots/Live-result.jpg)
-![Login](screenshots/Login.jpg)
-![Profile](screenshots/profile.jpg)
-![Services](screenshots/services.jpg)
-![Super Admin](screenshots/Super-Admin.jpg)
-![Theme](screenshots/Theme.jpg)
+
+**Admin Dashboard 2**: [Admin Dash 2](screenshots/Admin-dash2.jpg)
+**Admin Dashboard**: [Admin Dashboard](screenshots/Admin-Dashboard.jpg)
+**Admin Login**: [Admin Login](screenshots/Admin-Login.jpg)
+**Admin User Management**: [Admin User Management](screenshots/Admin-user-management.jpg)
+**Campaign**: [Campaign](screenshots/campaign.jpg)
+**Dashboard**: [Dashboard](screenshots/dashboard.jpg)
+**Election Management**: [Election Management](screenshots/Election-management.jpg)
+**ID Page**: [ID Page](screenshots/ID--page.jpg)
+**ID Preview**: [ID Preview](screenshots/ID-preview.jpg)
+**Light Dashboard**: [Light Dashboard](screenshots/light-dashboard.jpg)
+**Live Result**: [Live Result](screenshots/Live-result.jpg)
+**Login**: [Login](screenshots/Login.jpg)
+**Profile**: [Profile](screenshots/profile.jpg)
+**Services**: [Services](screenshots/services.jpg)
+**Super Admin**: [Super Admin](screenshots/Super-Admin.jpg)
+**Theme**: [Theme](screenshots/Theme.jpg)
 
 ---
 
