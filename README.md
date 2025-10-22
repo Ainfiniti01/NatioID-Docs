@@ -203,8 +203,8 @@ While this version focuses on presentation and UI, contributions are welcome for
 *   Mobile-Web synchronization
 
 ## 📸 Visual Example
-
-![Admin Dash 2](screenshots/Admin-dash2.jpg)
+**Web App**: [Web App](https://natio-id.vercel.app/admin/login)
+**Admin Dash 2**: [Admin Dash 2](screenshots/Admin-dash2.jpg)
 ![Admin Dashboard](screenshots/Admin-Dashboard.jpg)
 ![Admin Login](screenshots/Admin-Login.jpg)
 ![Admin User Management](screenshots/Admin-user-management.jpg)
