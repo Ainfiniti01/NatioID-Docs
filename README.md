@@ -204,22 +204,22 @@ While this version focuses on presentation and UI, contributions are welcome for
 
 ## 📸 Visual Example
 
-![Admin Dash 2](docs/screenshots/Admin-dash2.jpg)
-![Admin Dashboard](docs/screenshots/Admin-Dashboard.jpg)
-![Admin Login](docs/screenshots/Admin-Login.jpg)
-![Admin User Management](docs/screenshots/Admin-user-management.jpg)
-![Campaign](docs/screenshots/campaign.jpg)
-![Dashboard](docs/screenshots/dashboard.jpg)
-![Election Management](docs/screenshots/Election-management.jpg)
-![ID Page](docs/screenshots/ID--page.jpg)
-![ID Preview](docs/screenshots/ID-preview.jpg)
-![Light Dashboard](docs/screenshots/light-dashboard.jpg)
-![Live Result](docs/screenshots/Live-result.jpg)
-![Login](docs/screenshots/Login.jpg)
-![Profile](docs/screenshots/profile.jpg)
-![Services](docs/screenshots/services.jpg)
-![Super Admin](docs/screenshots/Super-Admin.jpg)
-![Theme](docs/screenshots/Theme.jpg)
+![Admin Dash 2](screenshots/Admin-dash2.jpg)
+![Admin Dashboard](screenshots/Admin-Dashboard.jpg)
+![Admin Login](screenshots/Admin-Login.jpg)
+![Admin User Management](screenshots/Admin-user-management.jpg)
+![Campaign](screenshots/campaign.jpg)
+![Dashboard](screenshots/dashboard.jpg)
+![Election Management](screenshots/Election-management.jpg)
+![ID Page](screenshots/ID--page.jpg)
+![ID Preview](screenshots/ID-preview.jpg)
+![Light Dashboard](screenshots/light-dashboard.jpg)
+![Live Result](screenshots/Live-result.jpg)
+![Login](screenshots/Login.jpg)
+![Profile](screenshots/profile.jpg)
+![Services](screenshots/services.jpg)
+![Super Admin](screenshots/Super-Admin.jpg)
+![Theme](screenshots/Theme.jpg)
 
 ---
 
